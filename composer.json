@@ -1,0 +1,19 @@
+{
+    "name": "firdavs/gallery",
+    "type": "library",
+    "require": {
+        "spatie/laravel-medialibrary": "^9.9",
+        "laravel/framework": "^7.29|^8.65"
+    },
+    "autoload": {
+        "psr-4": {
+            "Firdavs\\Gallery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Firdavs",
+            "email": "firdavs3253@gmail.com"
+        }
+    ]
+}
